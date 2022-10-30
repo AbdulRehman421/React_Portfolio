@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.57a44d72.css",
+    "main.js": "/static/js/main.8b2be819.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/tesla_logo.jpg": "/static/media/tesla_logo.47804e9677264a1ef959.jpg",
+    "static/media/image.png": "/static/media/image.58ffd140e30213acd76c.png",
+    "static/media/cv.png": "/static/media/cv.02b00606e243f8945ade.png",
+    "static/media/landing-page.png": "/static/media/landing-page.5a31ab724f70f6e27325.png",
+    "static/media/calculator.png": "/static/media/calculator.d6abfc1cadec2b68b4bd.png",
+    "index.html": "/index.html",
+    "main.57a44d72.css.map": "/static/css/main.57a44d72.css.map",
+    "main.8b2be819.js.map": "/static/js/main.8b2be819.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57a44d72.css",
+    "static/js/main.8b2be819.js"
+  ]
+}
